@@ -1,0 +1,12 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+.Picker-container {
+  position: absolute;
+  bottom: 6px;
+  margin-bottom: 48px;
+  left: 1px;
+}
