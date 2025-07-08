@@ -44,7 +44,7 @@ In a world increasingly reliant on remote communication, **ChatWeb** provides a 
 - **Database:** MongoDB  
 - **Real-Time Communication:** Socket.IO  
 - **Authentication:** JWT + bcrypt  
-- **Video/Audio Calls:** WebRTC (or third-party API)
+- **Video Calls:** ZegoCloud
 
 ---
 
