@@ -92,6 +92,7 @@ npm start
 - **Notifications** – Real-time message alerts and unread badges
 - **View User Profiles** – Check profile information of others
 - **Chat Background Change** – Customize your chat background
+- **Responsive to any device type** - Mobile responsiveness  
 
 ### 📤 Multimedia & File Support
 
@@ -129,7 +130,6 @@ mern-chat-app/
 - End-to-End Encryption for messages
 - Message reactions & replies
 - Dark mode and theming
-- Mobile responsiveness
 - Chatbot integration
 
 ---
